@@ -59,45 +59,7 @@ Then enter usernames when prompted. Type `quit`, `q`, or `exit` to exit the prog
 
 This tool only accesses publicly available information through GitHub's official API. It respects GitHub's terms of service and rate limits.
 
-## Example Output
-
-```
-============================================================
-           GitHub Email Finder
-============================================================
-Search for public GitHub information
-
-Searching for 'octocat'...
-   Searching for email...
-   Fetching repositories...
-------------------------------------------------------------
-
-Information found
-
-PROFILE
-   Username: octocat
-   Full name: The Octocat
-   Email: octocat@github.com
-   Bio: GitHub mascot
-   Location: San Francisco
-
-STATISTICS
-   Public repos: 8
-   Followers: 4000
-   Following: 9
-   Member since: 01/25/2011 at 18:44
-
-LATEST REPOSITORY
-   Name: Hello-World
-   Description: My first repository on GitHub!
-   Language: N/A
-   Stars: 1500
-   Last updated: 05/20/2023 at 14:30
-
-------------------------------------------------------------
-Profile: https://github.com/octocat
-```
-
 ## License
+
 
 This project is open source and available under the MIT License.
